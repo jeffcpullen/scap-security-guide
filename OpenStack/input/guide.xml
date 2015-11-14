@@ -8,6 +8,7 @@
   <front-matter>The SCAP Security Guide Project<br/>https://fedorahosted.org/scap-security-guide</front-matter>
   <rear-matter>Trademark Information Red Hat and Red Hat Enterprise Linux OpenStack Platform are either registered trademarks or trademarks of Red Hat, Inc. in the United States and other countries. All other names are registered trademarks or trademarks of their respective companies.</rear-matter>
   <reference href="TODO::INSERT"></reference>
-  <platform idref="cpe:/o:redhat:enterprise_linux:6" />
+  <platform idref="cpe:/o:redhat:enterprise_linux_openstack_platform:6" />
+  <platform idref="cpe:/o:redhat:enterprise_linux_openstack_platform:7" />
   <version>0.1</version>
 </Benchmark>
